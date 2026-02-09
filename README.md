@@ -2,7 +2,7 @@
 Eine Übersicht aller nennenswerten Webseiten und Projekte rund um den Robotron KC85 und KC87.
 
 Welche Seiten fehlen? Welche Projekte findet Ihr spannend? 
-Ich freue mich über Vorschläge...
+<br>Ich freue mich über Vorschläge...
 
 
 
