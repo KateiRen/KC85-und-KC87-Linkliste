@@ -1,9 +1,12 @@
-# KC85-Linkliste
-Eine Übersicht aller nennenswerten Webseiten und Projekte rund um den Robotron KC85 und KC87
+# KC85/KC87-Linkliste
+Eine Übersicht aller nennenswerten Webseiten und Projekte rund um den Robotron KC85 und KC87.
+
+Welche Seiten fehlen? Welche Projekte findet Ihr spannend? Ich freue mich über Vorschläge...
+
+
 
 
 ## Deutschsprachige Webseiten
-
 
 | Webseite | Neue Zusammenfassung |
 |----------|----------------------|
@@ -22,7 +25,7 @@ Eine Übersicht aller nennenswerten Webseiten und Projekte rund um den Robotron 
 | [Mike McBike Museum](https://www.wolfgangrobel.de/museum/kc853.htm) | Umfangreiche Informationen zu Elektronik, Microcontrollern, FPGAs, Arcade, Emulatoren, RC5, Programmierung, SR-500, Röhren und auch robotron Rechnern. |   
 | [Wikipedia: Robotron Z9001 / KC85/1 / KC87](https://de.wikipedia.org/wiki/Robotron_Z9001) | Technische Daten, Historie, Hardware‑Specs, Produktionsdaten |
 
-
+<hr>
 
 
 ## Interessante Projekte
