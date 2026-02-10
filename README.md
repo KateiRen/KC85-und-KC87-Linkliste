@@ -37,7 +37,7 @@ Welche Seiten fehlen? Welche Projekte findet Ihr spannend?
 | [KC85‑Demos](https://github.com/haykonus/KC85-Demos) | Demo‑Programme für KC85/1, KC85/3 und KC85/4; basiert auf ZX‑Spectrum‑Demos; mehrere Grafik‑Effekte |
 | [VSCODE-KCIDE](https://github.com/floooh/vscode-kcide) | Assembler IDE für VSCode inklusive Emulator|
 | [Laufwerksumbau](http://honi.hucki.de/) | Detaillierte Umbauanleitungen für 3,5"‑Diskettenlaufwerke zur Nutzung an Amiga/Robotron/CP‑M‑Systemen. |
-| [USB und Netzwerk]([http://honi.hucki.de/](http://kc85.info/index.php/steckmodule-mxxx/197-netzwerk-und-usb-modul-m052.html?showall=1)) | Projekt für eine USB und Netzwerschnitstelle als Modul M052 |
+| [USB und Netzwerk](http://honi.hucki.de/](http://kc85.info/index.php/steckmodule-mxxx/197-netzwerk-und-usb-modul-m052.html?showall=1) | Projekt für eine USB und Netzwerschnitstelle als Modul M052 |
 | [paranoid64/Robotron‑SD‑master](https://github.com/paranoid64/Robotron-SD-master) | Hardware‑ und Firmware‑Projekt, das SD‑Karten als Massenspeicher für Robotron‑Computer nutzbar macht; enthält Schaltpläne, Code und Dokumentation. |
 | [KCREK – KC‑Rekonstruktionstool](https://www.sax.de/~zander/z9001/tip/datei/kcrek.html) | Hintergrundinfos und Tools zur Rekonstruktion von KC‑85/KC‑Rechner‑Dateien; beschreibt Dateiformate, Prüfsummen und Reparaturmöglichkeiten. |
 | [chhu/kc85‑tape‑player](https://github.com/chhu/kc85-tape-player) | Ein Tool zum Abspielen und Erzeugen von KC85‑Kassettenformaten (TAP/TAPC); ermöglicht das Laden von Programmen über Audio‑Ausgabe. |
