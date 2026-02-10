@@ -36,6 +36,7 @@ Welche Seiten fehlen? Welche Projekte findet Ihr spannend?
 |-------------|--------------|
 | [KC85‑Demos](https://github.com/haykonus/KC85-Demos) | Demo‑Programme für KC85/1, KC85/3 und KC85/4; basiert auf ZX‑Spectrum‑Demos; mehrere Grafik‑Effekte |
 | [VSCODE-KCIDE](https://github.com/floooh/vscode-kcide) | Assembler IDE für VSCode inklusive Emulator|
+| [Scart Kabel für RGB Buchse](https://www.sax.de/~zander/index2h.html) | Bauanleitung für ein Scart-Kabel für den Einsatz am RGB Port des KC |
 | [Laufwerksumbau](http://honi.hucki.de/) | Detaillierte Umbauanleitungen für 3,5"‑Diskettenlaufwerke zur Nutzung an Amiga/Robotron/CP‑M‑Systemen. |
 | [USB und Netzwerk](http://kc85.info/index.php/steckmodule-mxxx/197-netzwerk-und-usb-modul-m052.html?showall=1) | Projekt für eine USB und Netzwerschnitstelle als Modul M052 |
 | [paranoid64/Robotron‑SD‑master](https://github.com/paranoid64/Robotron-SD-master) | Hardware‑ und Firmware‑Projekt, das SD‑Karten als Massenspeicher für Robotron‑Computer nutzbar macht; enthält Schaltpläne, Code und Dokumentation. |
